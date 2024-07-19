@@ -1,4 +1,4 @@
-package com.pratyush.springcouchbase;
+package com.pratyush.springcouchbase.entity;
 
 import java.util.List;
 
