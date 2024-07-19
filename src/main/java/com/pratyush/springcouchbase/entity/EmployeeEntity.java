@@ -8,13 +8,11 @@ import org.springframework.data.couchbase.core.mapping.Field;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@EqualsAndHashCode
 @Document
 public class EmployeeEntity {
 	
